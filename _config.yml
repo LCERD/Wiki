@@ -4,5 +4,8 @@ theme: just-the-docs
 
 url: https://lcerd.github.io
 
+color_scheme: dark
+
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Discord: https://discord.gg/zRDY32WMfs
+  GitHub: https://github.com/LCERD/Wiki
