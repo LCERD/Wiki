@@ -1,3 +1,3 @@
-# Legacy Console R&D Wikipedia
+# Legacy Console R&D Wiki
 
 This is currently WIP. Please come back later.
